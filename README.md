@@ -1,1 +1,1 @@
-# PRODIGY_WD_02
+task no. 2 " stopwatch web application"
